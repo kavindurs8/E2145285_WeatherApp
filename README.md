@@ -16,8 +16,7 @@ A simple Android application that displays current weather information for your 
 4. Build and run the app on an emulator or physical device.
 
 ## Screenshots
-![Main User Interface](screenshots/screenshots1.png)
-![Add API_KEY](screenshots/screenshots2.png)
+![screenshots1](https://github.com/kavindurs8/E2145285_WeatherApp/assets/170858581/1df860f4-8c69-4585-bfc2-94063c7a7e7f)
 
 
 ## Additional features implemented
