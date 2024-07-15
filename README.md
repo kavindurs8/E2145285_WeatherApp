@@ -17,6 +17,7 @@ A simple Android application that displays current weather information for your 
 
 ## Screenshots
 ![screenshots1](https://github.com/kavindurs8/E2145285_WeatherApp/assets/170858581/1df860f4-8c69-4585-bfc2-94063c7a7e7f)
+![screenshots1](https://github.com/kavindurs8/E2145285_WeatherApp/blob/main/screenshots/screenshots2.PNG)
 
 
 ## Additional features implemented
